@@ -6,7 +6,7 @@
 🔭 His expertise includes 
 - PDE theory backed Finite Element (FE) high performence computing (HPC) simulation software developmemt and deployment on modern computing clusters;
 - Dynamic Lattice File Theoy (LFT) HPC simulation software developmemt and deployment on modern computing clusters;
-- GPU-aware MPI HPC software development, testing and depolyment.
+- CUDA-aware and ROCm-aware MPI HPC software development, testing and depolyment.
 
 🔍 His scientific research includes
 - Symmetry breaking Phase transition and phase transition dynamics in extreme low temperature Fermi fluid, Copper pairing indeced superfluidity;
