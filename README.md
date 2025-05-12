@@ -15,7 +15,10 @@
 
 🤠 HPC Show Case
 The string-monopole composite object in superfluid. Thorough analogy of cosmological string-monopole objects proposed in many GUTs.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gaHUai2RmUU?si=2Ijg45A5rhx9HpCP" frameborder="0"> </iframe>
+
+
 <!--
 **timohyva/timohyva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
