@@ -8,10 +8,10 @@
 - Dynamic Lattice File Theoy (LFT) HPC simulation software developmemt and deployment on modern computing clusters;
 - CUDA-aware and ROCm-aware MPI HPC software development, testing and depolyment.
 
-🔍 His scientific research includes
+<!--🔍 His scientific research includes
 - Symmetry breaking Phase transition and phase transition dynamics in extreme low temperature Fermi fluid, Copper pairing indeced superfluidity;
 - Topological defects in different symmetry breaking phases of superfluid, cosmological phase transition and phase transitons in grand unified theory;
-- HPC simulations of phase transtion dynamics and topological defects.
+- HPC simulations of phase transtion dynamics and topological defects.-->
 
 ⛳ His achievements on HPC software suite developments
 - Adaptive meshed FE simulation suite [VerHem](https://verhem.github.io). The numerical optimazation solver of tensor-valued 18-compoment Ginzburg-Landau PDEs of `p-wave` superfluid;
