@@ -1,5 +1,5 @@
 # About this Mathematical Physicist
-🤠 HPC Show Case
+🤠 HPC Show Case (click pic jump to movie)
 - String-monopole composite object in superfluid. Thorough analogy of cosmological monopole objects proposed in many GUTs.
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/gaHUai2RmUU/0.jpg)](https://www.youtube.com/watch?v=gaHUai2RmUU)
 
