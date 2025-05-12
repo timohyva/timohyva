@@ -1,4 +1,8 @@
 # About this Mathematical Physicist
+🤠 HPC Show Case
+- String-monopole composite object in superfluid. Thorough analogy of cosmological monopole objects proposed in many GUTs.
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/gaHUai2RmUU/0.jpg)](https://www.youtube.com/watch?v=gaHUai2RmUU)
+
 🔭 His expertise includes 
 - PDE theory backed Finite Element (FE) high performence computing (HPC) simulation software developmemt and deployment on modern computing clusters;
 - Dynamic Lattice File Theoy (LFT) HPC simulation software developmemt and deployment on modern computing clusters;
@@ -13,9 +17,6 @@
 - Adaptive meshed FE simulation suite [VerHem](https://verhem.github.io). The numerical optimazation solver of tensor-valued 18-compoment Ginzburg-Landau PDEs of `p-wave` superfluid;
 - Dynamic LFT simulaton suite [dyGiLa](https://dygila.github.io/). The powerful tool for phase transition dynamics, defect evolutions governed by 18-compoment Ginzburg-Landau PDEs.
 
-🤠 HPC Show Case
-- String-monopole composite object in superfluid. Thorough analogy of cosmological monopole objects proposed in many GUTs.
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/gaHUai2RmUU/0.jpg)](https://www.youtube.com/watch?v=gaHUai2RmUU)
 <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/gaHUai2RmUU?si=2Ijg45A5rhx9HpCP" frameborder="0"> </iframe>-->
 
 
